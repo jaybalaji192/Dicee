@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    align-items: center;
+    color: #44c396;
+    background-color: #33343d;
+}
+
+
+h1 {
+    font-family: 'Lobster', sans-serif;
+    font-size: 150px;
+    margin-top: 20px;
+    /* align-items: ; */
+}
+
+h3 {
+    font-family: 'Indie Flower', cursive;
+    font-size: 50px;
+}
+
+table {
+    margin-left: 30%;
+}
+
+
+.dice {
+    width: 250px;
+    text-align: center;
+    margin: auto;
+    display: inline-block;
+    
+}
